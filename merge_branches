@@ -1,0 +1,11 @@
+git checkout main output:
+warning: unable to rmdir 'mcino-Introduction-to-Git-and-GitHub': Directory not empty
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+git merge output
+Merge made by the 'ort' strategy.
+ README.md                            | 2 +-
+ mcino-Introduction-to-Git-and-GitHub | 1 +
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+ create mode 160000 mcino-Introduction-to-Git-and-GitHub
